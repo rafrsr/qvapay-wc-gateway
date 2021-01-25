@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Plugin Name: QvaPay
+Plugin Name: QvaPay for WooCommerce
 Plugin URI: https://github.com/rafrsr/qvapay-wc-gateway
 Tags: payment, qvapay, woocommerce, gateway, crypto, currency
 Author URI: https://github.com/rafrsr

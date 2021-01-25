@@ -11,7 +11,7 @@
  */
 
 /**
- * Plugin Name: QvaPay
+ * Plugin Name: QvaPay for WooCommerce
  * Plugin URI: https://github.com/rafrsr/qvapay-wc-gateway
  * Description: Use your QvaPay account to accept payments
  * Version: 1.0
