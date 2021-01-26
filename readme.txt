@@ -1,6 +1,6 @@
 === Plugin Name ===
 
-Plugin Name: QvaPay for WooCommerce
+QvaPay for WooCommerce
 Plugin URI: https://github.com/rafrsr/qvapay-wc-gateway
 Tags: payment, qvapay, woocommerce, gateway, crypto, currency
 Author URI: https://github.com/rafrsr
@@ -15,7 +15,7 @@ Version: 1.0
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Now you can accept payments in WooCommerce store using QvaPay 🥳
+Ahora puedes aceptar pagos en tu tienda WordPress usando QvaPay 🥳
 
 == Description ==
 
